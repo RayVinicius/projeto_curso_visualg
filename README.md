@@ -1,2 +1,3 @@
-# projeto_curso_visualg
-Projeto criado para escrever Portugol na ferramenta Visualg.
+# PROJETO CURSO ALGORITMO
+
+### Projeto criado para escrever JavaScript apartir de projetos em Portugol (Visualg).
